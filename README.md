@@ -7,7 +7,6 @@ Bienvenue sur mon profil GitHub ! Voici quelques informations à mon sujet :
 - 💞️ **Collaboration** : Ouvert à des projets collaboratifs, que ce soit dans le développement de solutions mobiles, la création de plateformes web ou l'amélioration de projets open source.  
 - 📫 **Me contacter** :  
   - LinkedIn : [Yonni Guerrault](https://www.linkedin.com/in/yonni-guerrault/)  
-  - Email : *(ajoute ton email ici si tu le souhaites)*  
 - ⚡ **Fun fact** : J'adore relever des défis techniques et apprendre de nouvelles approches pour résoudre des problèmes complexes.  
 
 ---
