@@ -16,7 +16,7 @@ Bienvenue sur mon profil GitHub ! Voici quelques informations à mon sujet :
 Voici quelques outils et langages avec lesquels je travaille régulièrement :  
 - **Front-end** : Angular, React, TailwindCSS, HTML/CSS.  
 - **Mobile** : Flutter / Kotlin 
-- **Back-end** : Node.js, Express, MongoDB.  
+- **Back-end** : Symfony/Doctrine, Node.js, Express, MongoDB.  
 - **Autres outils** : Git, Docker, Postman, VS Code.  
 
 ---
