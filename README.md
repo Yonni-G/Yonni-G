@@ -6,8 +6,8 @@ Bienvenue sur mon profil GitHub ! Voici quelques informations à mon sujet :
 - 🌱 **Actuellement en apprentissage** : Je me forme constamment sur les frameworks modernes tels qu'Angular, React et Flutter, tout en perfectionnant mes compétences en backend avec Symfony, Node ou bien Java Spring Boot 
 - 💞️ **Collaboration** : Ouvert à des projets collaboratifs, que ce soit dans le développement de solutions mobiles, la création de plateformes web ou l'amélioration de projets open source.  
 - 📫 **Me contacter** :  
-- Mon portfolio : [Yonni.com](https://yonni.com)  
-- LinkedIn : [Yonni Guerrault](https://www.linkedin.com/in/yonni-guerrault/)  
+  - Mon portfolio : [Yonni.com](https://yonni.com)  
+  - LinkedIn : [Yonni Guerrault](https://www.linkedin.com/in/yonni-guerrault/)  
 - ⚡ **Fun fact** : J'adore relever des défis techniques et apprendre de nouvelles approches pour résoudre des problèmes complexes.  
 
 ---
