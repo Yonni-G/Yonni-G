@@ -24,8 +24,8 @@ Voici quelques outils et langages avec lesquels je travaille régulièrement :
 
 ### Projets en cours 🚀
 
-- 🔧 **Développement d'une application de Gestion/Réservation de courts de tennis, padel et squash. Développement en Java Spring Boot (API Rest) et Angular**
-- 🔧 **Développement d'une plateforme de jeux en ligne destinée aux apprenants en Japonais. Développement en NodeJs/Express (API Rest) et Angular**
+- 🔧 **Développement d'une application de Gestion/Réservation de courts de tennis, padel et squash (https://yonni.com/raquettelover/). Avec Java Spring Boot (API Rest) et Angular**
+- 🔧 **Développement d'une plateforme de jeux en ligne (https://kanji-arena.com) destinée aux apprenants en Japonais. Avec NodeJs/Express (API Rest) et Angular**
 - 🌐 **Montée en compétence sur le framework Symfony** 
 
 N'hésitez pas à explorer mes dépôts pour en savoir plus sur mon travail ou à me contacter pour discuter de vos idées.  
